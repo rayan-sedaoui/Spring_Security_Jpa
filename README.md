@@ -14,11 +14,6 @@ Ce projet est une application web développée avec **Spring Boot**, démontrant
 * **Initialisation automatique :** Création automatique des tables (Hibernate) et insertion d'utilisateurs par défaut au démarrage grâce à un `CommandLineRunner`.
 
 
-## Lien de l'application
-
-
-https://github.com/rayan-sedaoui/Spring_Security_Jpa.git
-
 ## l'application
 
 
